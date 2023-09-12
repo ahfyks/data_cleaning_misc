@@ -3,7 +3,7 @@ import os
 import re
 
 # File path
-os.chdir('C:/Users/dujnapa_tan/Documents/Budget Report/August 23/')
+os.chdir('filepath')
 
 # Read the CSV file
 df = pd.read_csv('input.csv', encoding='utf-8')
