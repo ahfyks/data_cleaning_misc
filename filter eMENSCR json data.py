@@ -3,7 +3,7 @@ import pandas as pd
 import os as os
 
 # File path
-os.chdir('C:/Users/dujnapa_tan/Downloads/emenscr_Aug-66/')
+os.chdir('YOUR FILE PATH')
 
 # Load the JSON data from your file
 with open('documents-2023-08-22T115703.json', 'r',encoding='utf-8') as json_file:
